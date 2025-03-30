@@ -1,1 +1,1 @@
-# bb_chatbot_rag
+# Binary Brains Chatbot
